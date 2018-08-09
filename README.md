@@ -16,7 +16,7 @@ You will find the description for the periods on github, but typically not more 
 
 ## Detailed Period descriptions
 [Period-1](https://github.com/fulsstackJS-Fall2018/Period-1) (Monday August 12 th. - Sunday September 16 th.)
-(Period-2](https://github.com/fulsstackJS-Fall2018/Period-2/blob/master/README.md) (September 17th - October 12 th)
+(Period-2](https://github.com/fulsstackJS-Fall2018/Period-2) (September 17th - October 12 th)
 
 ## Professional competencies
 JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk](https://www.jobindex.dk/jobsoegning?q=javascript) ).
