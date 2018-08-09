@@ -20,7 +20,7 @@ You will find the description for the periods on github, but typically not more 
 - [Period-3](https://github.com/fulsstackJS-Fall2018/Period-3) (October 22th - November 19th)
 - [Period-4](https://github.com/fulsstackJS-Fall2018/Period-4) (November 26th - December 21th)
 
-[Semester Plan](https://docs.google.com/document/d/19dg9tjGlm6mmOE_gBJ-j1-NrfV-B4WBYB_dAHpUNOE0/edit?usp=sharing) (Links to the same perioddescriptions as above) 
+[Semester Plan](https://docs.google.com/document/d/19dg9tjGlm6mmOE_gBJ-j1-NrfV-B4WBYB_dAHpUNOE0/edit?usp=sharing) (Links to the same period descriptions as above) 
 
 ## Professional competencies
 JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk](https://www.jobindex.dk/jobsoegning?q=javascript) ).
