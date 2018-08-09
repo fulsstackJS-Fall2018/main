@@ -14,6 +14,9 @@ One period will be marked as non-compulsory, which mean you can replace it with 
 
 You will find the description for the periods on github, but typically not more than 1-2 lessons into the future since the content of this course changes each semester. The documents for each period will also include all literature, exercises, links to slides etc.
 
+## Detailed Period descriptions
+[Period-1](https://github.com/fulsstackJS-Fall2018/Period-1) (Monday August 12 th. - Sunday August 16 th.)
+
 ## Professional competencies
 JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk](https://www.jobindex.dk/jobsoegning?q=javascript) ).
 
