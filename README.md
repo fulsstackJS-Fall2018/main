@@ -39,7 +39,9 @@ Given how fast things evolve in the JavaScript world, the descriptions are not c
 You are expected to know fundamental JavaScript, as introduced on the previous semester. You are also expected to know, again from third semester, React and React Native. If you don’t feel quite comfortable with all this right now, don’t worry. You will by the end of the semester :-)
 
 ## How to get your StudyPoints
-You get (as usual) study points for attendance and "doing stuff"
-Attendance:				 20 points
-Period 1-4 hand-ins (20*4):	80 points
-You must earn at least 80% (= 80 points) to be approved for the exam.
+You get your studypoints from the four period-handins:"
+
+Period 1-4 hand-ins (25*4):	100 points
+You must earn at least 80% (= 80 points) to be approved for the exam, and you must have made an attempt with each of the four hand-ins.
+
+[Check your status here](https://docs.google.com/spreadsheets/d/1HB6xLiiiRC7l-1rkoMzZF5s1dwf60BMftUob0APDfV4/edit?usp=sharing)
